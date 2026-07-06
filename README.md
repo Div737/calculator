@@ -4,7 +4,7 @@ A simple, responsive calculator web application built with HTML, CSS, and JavaSc
 
 ## Features
 
-- Perform addition, subtraction, multiplication, and division
+- Perform addition, subtraction, modulus
 - Clear the current input
 - Delete the last entered digit
 - Responsive design for desktop and mobile devices
@@ -75,6 +75,9 @@ While building this project, I strengthened my understanding of:
 - Functions and conditional statements
 - Building responsive user interfaces with CSS
 - Organizing project files
+
+## Live Demo
+- https://div737.github.io/calculator/
 
 ## Author
 
