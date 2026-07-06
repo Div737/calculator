@@ -43,23 +43,23 @@ cd calculator
 2. Select an arithmetic operator (+, −, ×, ÷).
 3. Enter the second number.
 4. Press the equals (`=`) button to display the result.
-5. Use the **C** button to clear the display or **DEL** to remove the last digit entered.
+5. Use the **C** button to clear the display.
 
 ## Project Structure
 
 ```text
-calculator/
+Calculator/
 │
-├── index.html
-├── style.css
-├── script.js
+├── index.css
+├── index.css
+├── index.js
 ├── README.md
-└── assets/
 ```
 
 ## Future Improvements
 
 - Keyboard support
+- Delete button
 - Calculation history
 - Scientific calculator functions
 - Dark mode
@@ -90,3 +90,4 @@ While building this project, I strengthened my understanding of:
 Software Engineering Student
 
 GitHub: https://github.com/Div737
+
