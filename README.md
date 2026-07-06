@@ -6,7 +6,6 @@ A simple, responsive calculator web application built with HTML, CSS, and JavaSc
 
 - Perform addition, subtraction, modulus
 - Clear the current input
-- Delete the last entered digit
 - Responsive design for desktop and mobile devices
 - Instant calculation results
 
@@ -78,6 +77,11 @@ While building this project, I strengthened my understanding of:
 
 ## Live Demo
 - https://div737.github.io/calculator/
+
+## Screenshot
+
+![Calculator Screenshot](assets/screenshot.png)
+
 
 ## Author
 
