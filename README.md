@@ -78,8 +78,8 @@ While building this project, I strengthened my understanding of:
 
 ## Author
 
-**Ella**
+**Divine Obatunde-Oriloye**
 
 Software Engineering Student
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Div737
